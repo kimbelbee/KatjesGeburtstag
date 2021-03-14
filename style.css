@@ -1,0 +1,44 @@
+@import url(https://fonts.google.com/specimen/Quicksand?sidebar.open=true&selection.family=Quicksand:wght@300);
+@import url(https://fonts.google.com/specimen/Lexend+Zetta?selection.family=Lexend+Zetta|Quicksand:wght@300#standard-styles);
+@import url('https://fonts.googleapis.com/css2?family=Fascinate&display=swap');
+
+<style>
+
+  body {}
+
+
+  body {
+    background-image: url('images/jason-leung-Xaanw0s0pMk-unsplash.jpg');
+    background-size: cover;
+  }
+
+  h1 {
+    font-family: 'Fascinate', cursive;
+    color: wheat;
+    font-size: 10em;
+    margin-block-start: 0;
+      }
+
+  p {
+    font-family:'Quicksand';
+    font-size: 20px;
+;  }
+
+  .first {
+    background-image: url('images/johannes-w-qaIQk1TVon8-unsplash.jpg');
+    height: 180vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+  }
+
+  .gifs {
+    text-align: center;
+    padding: 20px 0px;
+  }
+  .text{
+    height: 40em;
+    text-align: center;
+    padding-top: 10em;
+  }
+</style>
